@@ -33,11 +33,11 @@ and support for both GitHub Pages and containerized deployment.
 
 [Play the game](https://ucas-yangxb.github.io/snake/) · [View source](https://github.com/UCAS-yangxb/snake)
 
-### [Test Codex Game](https://github.com/UCAS-yangxb/test-codex-game)
+### [Neon Breaker](https://github.com/UCAS-yangxb/test-codex-game)
 
-An experimental Breakout game built to explore AI-assisted development workflows. It includes custom
-physics, five designed levels, five power-ups, local two-player mode, procedural audio, and a
-deterministic smoke-test suite.
+An experimental Breakout game originally built to explore AI-assisted development workflows. It
+includes custom physics, five designed levels, five power-ups, local two-player mode, procedural
+audio, and a deterministic smoke-test suite.
 
 [View source](https://github.com/UCAS-yangxb/test-codex-game)
 
