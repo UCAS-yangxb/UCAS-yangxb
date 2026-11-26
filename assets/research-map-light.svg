@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Research interests</title>
+  <desc id="desc">Four research areas: reinforcement learning, LLMs and agents, evolutionary computation and automated algorithm design, and AI for Science including controllable nuclear fusion.</desc>
+
+  <rect width="1200" height="380" rx="24" fill="#f5f8fc"/>
+  <path d="M600 22V358M22 190H1178" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#0f172a">
+    <rect x="40" y="32" width="5" height="44" fill="#0f766e"/>
+    <text x="62" y="56" font-size="28" font-weight="750">Reinforcement Learning</text>
+    <text x="62" y="84" fill="#526174" font-size="18">Intelligent decision-making under uncertainty.</text>
+    <rect x="620" y="32" width="5" height="44" fill="#7c3aed"/>
+    <text x="642" y="56" font-size="28" font-weight="750">LLMs &amp; Agents</text>
+    <text x="642" y="84" fill="#526174" font-size="18">Language models, tool use, and autonomous workflows.</text>
+
+    <rect x="40" y="200" width="5" height="44" fill="#0284c7"/>
+    <text x="62" y="224" font-size="28" font-weight="750">Evolutionary Computation</text>
+    <text x="62" y="252" fill="#526174" font-size="18">Search, optimization, and automated algorithm design.</text>
+
+    <rect x="620" y="200" width="5" height="44" fill="#c026d3"/>
+    <text x="642" y="224" font-size="28" font-weight="750">AI for Science</text>
+    <text x="642" y="252" fill="#526174" font-size="18">Learning-based methods for science, including controllable fusion.</text>
+  </g>
+</svg>

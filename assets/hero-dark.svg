@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Xiaobing Yang — Ph.D. student at the Institute of Automation, CAS</title>
+  <desc id="desc">A research-focused introduction connecting reinforcement learning, LLM agents, evolutionary computation, and AI for Science.</desc>
+
+  <defs>
+    <pattern id="grid-dark" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#e2e8f0" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="frame-dark">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-dark)">
+    <rect width="1200" height="320" fill="#080d19"/>
+    <rect width="1200" height="320" fill="url(#grid-dark)"/>
+    <circle cx="975" cy="155" r="250" fill="#0f172a" fill-opacity=".65"/>
+
+    <rect x="58" y="52" width="4" height="208" fill="#5eead4"/>
+
+    <text x="86" y="74" fill="#94a3b8" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600">
+      Ph.D. Student · Institute of Automation, CAS
+    </text>
+    <text x="82" y="151" fill="#f8fafc" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">
+      Xiaobing Yang
+    </text>
+    <text x="86" y="194" fill="#cbd5e1" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22">
+      Building intelligent systems for science and engineering.
+    </text>
+
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600">
+      <rect x="86" y="225" width="158" height="34" rx="17" fill="#123c3a"/>
+      <text x="165" y="248" fill="#99f6e4" text-anchor="middle">Reinforcement Learning</text>
+      <rect x="256" y="225" width="106" height="34" rx="17" fill="#2e1b59"/>
+      <text x="309" y="248" fill="#ddd6fe" text-anchor="middle">LLM Agents</text>
+      <rect x="374" y="225" width="185" height="34" rx="17" fill="#0c334b"/>
+      <text x="466.5" y="248" fill="#bae6fd" text-anchor="middle">Evolutionary Computation</text>
+      <rect x="571" y="225" width="129" height="34" rx="17" fill="#481a50"/>
+      <text x="635.5" y="248" fill="#f5d0fe" text-anchor="middle">AI for Science</text>
+    </g>
+
+    <g transform="translate(965 155) rotate(-14)" fill="none">
+      <ellipse rx="220" ry="102" stroke="#5eead4" stroke-opacity=".35" stroke-width="2"/>
+      <ellipse rx="174" ry="73" stroke="#a78bfa" stroke-opacity=".5" stroke-width="2"/>
+      <ellipse rx="116" ry="44" stroke="#38bdf8" stroke-opacity=".4" stroke-width="2"/>
+      <path d="M-220 0H220" stroke="#e2e8f0" stroke-opacity=".08" stroke-dasharray="3 8"/>
+      <path d="M0-102V102" stroke="#e2e8f0" stroke-opacity=".08" stroke-dasharray="3 8"/>
+      <circle cx="220" cy="0" r="9" fill="#5eead4" stroke="#080d19" stroke-width="4"/>
+      <circle cx="-94" cy="-63" r="8" fill="#a78bfa" stroke="#080d19" stroke-width="4"/>
+      <circle cx="-96" cy="38" r="6" fill="#38bdf8" stroke="#080d19" stroke-width="4"/>
+      <circle cx="104" cy="26" r="7" fill="#e879f9" stroke="#080d19" stroke-width="4"/>
+      <path d="M-148 96C-93 147-7 164 74 139" stroke="#5eead4" stroke-opacity=".28" stroke-width="2"/>
+    </g>
+    <circle cx="965" cy="155" r="34" fill="#e2e8f0"/>
+    <path d="M951 160c9-17 18-17 28 0M965 137v18M956 146h18" fill="none" stroke="#080d19" stroke-width="3" stroke-linecap="round"/>
+
+    <path d="M741 273h390" stroke="#e2e8f0" stroke-opacity=".12"/>
+    <circle cx="1119" cy="273" r="5" fill="#e879f9"/>
+  </g>
+</svg>
