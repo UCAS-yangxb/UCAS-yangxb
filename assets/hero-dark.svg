@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Xiaobing Yang — Ph.D. student at the Institute of Automation, CAS</title>
+  <title id="title">Xiaobing Yang — final-year undergraduate at UCAS and incoming Ph.D. student at CASIA</title>
   <desc id="desc">A research-focused introduction connecting reinforcement learning, LLM agents, evolutionary computation, and AI for Science.</desc>
 
   <defs>
@@ -19,13 +19,13 @@
     <rect x="58" y="52" width="4" height="208" fill="#5eead4"/>
 
     <text x="86" y="74" fill="#94a3b8" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600">
-      Ph.D. Student · Institute of Automation, CAS
+      Final-year undergraduate at UCAS · Incoming Ph.D. student at CASIA
     </text>
     <text x="82" y="151" fill="#f8fafc" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">
       Xiaobing Yang
     </text>
     <text x="86" y="194" fill="#cbd5e1" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22">
-      Building intelligent systems for science and engineering.
+      Building a foundation in intelligent systems for science and engineering.
     </text>
 
     <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600">

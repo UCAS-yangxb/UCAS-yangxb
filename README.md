@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <img src="./assets/hero-light.svg" alt="Xiaobing Yang, Ph.D. Student at the Institute of Automation, Chinese Academy of Sciences" width="100%">
+    <img src="./assets/hero-light.svg" alt="Xiaobing Yang, final-year undergraduate at UCAS and incoming Ph.D. student at CASIA" width="100%">
   </picture>
 </p>
 
@@ -16,9 +16,12 @@
 
 ## About
 
-I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences, based in Beijing.
-My interests span reinforcement learning, large language models, intelligent agents, evolutionary
-computation, automated algorithm design, and AI for Science.
+I am a final-year undergraduate student at the University of Chinese Academy of Sciences (UCAS)
+and an incoming direct-entry Ph.D. student at the Institute of Automation, Chinese Academy of
+Sciences (CASIA), based in Beijing.
+
+I am currently building a foundation in reinforcement learning, large language models, intelligent
+agents, evolutionary computation, automated algorithm design, and AI for Science.
 
 ## Research Map
 
@@ -30,6 +33,8 @@ computation, automated algorithm design, and AI for Science.
 </p>
 
 ## Selected Projects
+
+Small projects I use to strengthen my engineering workflow and turn ideas into working software.
 
 <table>
   <tr>
@@ -62,33 +67,6 @@ computation, automated algorithm design, and AI for Science.
     </td>
   </tr>
 </table>
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=UCAS-yangxb&show_icons=true&rank_icon=github&hide_border=true&card_width=390&title_color=5eead4&icon_color=a78bfa&text_color=cbd5e1&bg_color=00000000"
-    >
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=UCAS-yangxb&show_icons=true&rank_icon=github&hide_border=true&card_width=390&title_color=0f766e&icon_color=7c3aed&text_color=475569&bg_color=00000000"
-      alt="Xiaobing Yang's GitHub statistics"
-    >
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UCAS-yangxb&layout=compact&langs_count=6&hide_border=true&card_width=390&title_color=5eead4&text_color=cbd5e1&bg_color=00000000"
-    >
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=UCAS-yangxb&layout=compact&langs_count=6&hide_border=true&card_width=390&title_color=0f766e&text_color=475569&bg_color=00000000"
-      alt="Xiaobing Yang's most used languages"
-    >
-  </picture>
-</p>
 
 ## Contributions
 
